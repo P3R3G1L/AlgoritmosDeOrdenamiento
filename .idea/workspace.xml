@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afa8b7dd-5c45-4bb4-8adb-9b065b21e9b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgoritmosDeBusqueda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CargadorDeArreglos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GeneradorDeArreglos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OrdenamientoDeAlgoritmos.java" afterDir="false" />
-    </list>
+    <list default="true" id="afa8b7dd-5c45-4bb4-8adb-9b065b21e9b0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728478636300</updated>
-      <workItem from="1728478638125" duration="13484000" />
+      <workItem from="1728478638125" duration="14026000" />
     </task>
     <servers />
   </component>
