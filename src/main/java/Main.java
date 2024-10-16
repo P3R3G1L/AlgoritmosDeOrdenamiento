@@ -65,14 +65,14 @@ public class Main {
         System.out.println("Stooge Sort: " + stoogeTime + " ns");
 
         // Crear gráfico de barras con los tiempos obtenidos
-        /*
-        long[] times = {bubbleTime, quickTime};
-        String[] algorithms = {"Bubble Sort", "Quick Sort"};
 
-        GraficadorDeTiempo chart = new GraficadorDeTiempo("Sorting Algorithm Times", "Algorithm", "Execution Time (ns)", times, algorithms);
+        long[] times = {bitonicTime, quickTime, mergeTime, pigeonTime, bubbleTime, stoogeTime};
+        String[] algorithms = {"Bitonic Sort","Quick Sort", "Merge Sort", "Pigeon Sort", "Bubble Sort", "Stooge Sort"};
+
+        GraficadorDeTiempo chart = new GraficadorDeTiempo("Algoritmos de Ordenamiento", "Algoritmos", "Tiempo de ejecución (ns)", times, algorithms);
         chart.setSize(800, 400);
         chart.setVisible(true);
 
-         */
+
     }
 }
